@@ -1,0 +1,30 @@
+.notes-container {
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 20px;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+}
+
+.notes-text {
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin-top: 5px;
+}
+.deleteicon{
+    text-align: center;
+    padding-right: 10px;
+}
+.action-Icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

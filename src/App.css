@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*---------------------------------------- material ui form css-------------------------- */
+/* 
+body {
+    background-color: #85C1E9;
+}
+a{
+    text-decoration: none;
+}
+.formContainer {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.innerwrapper {
+    background-color: #F4F6F7;
+    width: 30%;
+    height: 600px;
+    box-shadow: 1px 2px 5px #F4F6F7;
+    border-radius: 5px;
+}
+.topbuttons {
+    margin-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0px 50PX;
+
+}
+.signup{
+    margin-left: -10px;
+}
+
+.nameContainer {
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.name {
+    width: 150px;
+    height: 10px;
+}
+
+.otherfield {
+    margin-top: 60px;
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 10px;
+
+}
+
+.fieldstyle {
+    width: 86%;
+    margin: 50px 0px;
+}
+
+.signupbtnbottom {
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.innerwrappersignin{
+    background-color: #F4F6F7;
+    width: 30%;
+    height: 500px;
+    box-shadow: 1px 2px 5px #F4F6F7;
+    border-radius: 5px;
+
+}
+.emailsignin{
+    width: 86%;
+    margin: 0px 0px;
+}
+.passwordsign{
+margin: 20px;
+}
+.otherfieldsignin{
+    margin: 20px 0px;
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+     justify-content: space-around; 
+    align-items: center;
+    padding: 50px 0px;
+
+}
+.termsCconditionsignin{
+    margin: -100px 0px;
+}
+.signupbtnbottomsignin{
+    margin-top: 100px;
+    margin-left: 38px;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .innerwrapper {
+        background-color: #F4F6F7;
+        width: 100%;
+        height: 600px;
+        box-shadow: 1px 2px 5px #F4F6F7;
+        border-radius: 5px;
+    }
+    .innerwrappersignin{
+        background-color: #F4F6F7;
+        width: 100%;
+        height: 500px;
+        box-shadow: 1px 2px 5px #F4F6F7;
+        border-radius: 5px;
+    
+    }
+  }
+   */
+
+/*---------------------------------------- material ui form css-------------------------- */
+
+
+/* ------------------- css form notes app notes app  -------------------------------------*/
+
+.app {
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+
+.plush {
+    font-size: 50px;
+    transition: all 0.5s;
+}
+
+.fa-solid:hover {
+    background-color: rgb(184, 170, 170);
+    transition: all 0.5s;
+}
+
+.top-heading {
+    margin-top: 60px;
+    width: 100%;
+    text-align: center;
+    height: fit-content;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.notescontainer {
+    margin-top: -20px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
